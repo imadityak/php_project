@@ -8,5 +8,4 @@
     echo "<br>The reverse string is " . strrev($str) . ". Thank you";
     echo "<br>The search for 'is' in the string is " . strpos($str, "is") . ". Thank you";
     echo "<br>The replace word in the string is " . str_replace("is", "at", $str) . ". Thank you";
-    echo "<br>The replace word in the string is " . str_replace("is", "at", $str) . ". Thank you";
 ?>
