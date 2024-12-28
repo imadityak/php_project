@@ -66,7 +66,7 @@
             echo $a;
             $a++;  
         } while ($a < 10);
-
+        
         //for
         for ($a=0  ; $a < 10; $a++) { 
             echo "<br>The value of a from for loop is: ";
